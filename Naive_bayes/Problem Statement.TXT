@@ -1,0 +1,3 @@
+Using the titanic.csv file with passengers dataset, specifically 
+fields Survived, Pclass, Sex, Age, Fare, predict the survival rate
+based on specified features.
